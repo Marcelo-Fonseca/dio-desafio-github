@@ -1,0 +1,30 @@
+link para download https://git-scm.com/
+Aqui vou incluindo os comando que for usando 
+
+
+##Comandos com git
+Para clonar um repositorio: git clone + link copiado no repositorio no github 
+git init-> inicializa dentro de uma pasta
+git add .
+git add *
+git status
+git conig --list -> mostra s configurações 
+git config --global user.name "digite seu nome" 
+git config --global user.email "meuemail@gmail.com"
+git commit -m "Aqui uma mensagem que identifique oque esta fazendo"
+git push origim maim -> para enviar para repositorio github
+
+ls
+
+
+
+-------
+windows
+cd -> entrar em uma pasta
+cd.. -> volta uma pasta
+dir -> Lista de diretorios 
+mkdir -> criar pasta
+cls -> limpa tela
+
+
+
